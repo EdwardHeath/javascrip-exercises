@@ -12,7 +12,7 @@ A palindrome is a string that is spelled the same both forwards and backwards, u
   - A nut for a jar of tuna.
 
 ```javascript
-palindromes('racecar') // true
+palindromes('raccear') // true
 palindromes('tacos') // false
 ```
 
